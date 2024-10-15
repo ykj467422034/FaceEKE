@@ -4,5 +4,4 @@ checkpoints/
 *.safetensors
 *.onnx
 *.log
-models/
 *.zip
