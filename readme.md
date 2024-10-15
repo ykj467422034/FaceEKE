@@ -19,6 +19,15 @@ python extract_face_embedding.py
 
 ### Demos
 
+#### Compare with original Insightface and Anime Face Detector
+
+|                Insightface                |                 Ours                 |
+| :---------------------------------------: | :----------------------------------: |
+| ![1728990109164](assets/demoface1error.jpg) | ![1728990109164](assets/demoface1.png) |
+| ![1728990109164](assets/demoface3error.jpg) | ![1728990109164](assets/demoface3.jpg) |
+
+#### Demos of our method
+
 |              Image              |             face and kps             |
 | :------------------------------: | :----------------------------------: |
 | ![1728985800438](assets/demo1.png) | ![1728985807518](assets/demoface1.png) |
