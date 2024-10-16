@@ -35,6 +35,8 @@ python extract_face_embedding.py
 
 ### Acknowledgements
 
-FaceEKE is developed by KUNLUN Skyworker AIStory team, all copyright reserved.
+FaceEKE is developed by KUNLUN Skywork AIStory team, all copyright reserved.
+
 Thanks to [insightface](https://github.com/deepinsight/insightface) for provide face embedding model.
+
 Thanks to [anime-face-detector](https://github.com/hysts/anime-face-detector) for anime face detect.
